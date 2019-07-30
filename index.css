@@ -101,6 +101,7 @@ html, body {
     height: 600px;
     /*float: left;*/
     display: inline-block;
+    vertical-align: top;
     margin: 10px;
 }
 
